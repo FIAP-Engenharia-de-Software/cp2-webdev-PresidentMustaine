@@ -8,7 +8,10 @@
 // - Retornar `"Errou! Tente novamente!"` se o palpite estiver incorreto.
 
 function adivinharNumero(max, palpite) {
-  // TODO: implementar função
+  max = 10
+
+  return alert('acertou!')
+
 }
 
 

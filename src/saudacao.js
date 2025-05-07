@@ -11,6 +11,9 @@
 function saudacao(nome, isLogged) {
   nome = nome || "Visitante";
   return isLogged || "Olá, " + nome + "!";
+
+
+
 }
 
 // Testando a função
